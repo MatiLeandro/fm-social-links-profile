@@ -99,7 +99,7 @@ a {
     transition: 0.1s;
 }
 
-.contact-list li a:active {
+.contact-list li a:hover {
     background-color: var(--green);
     color: var(--grey);
 }
